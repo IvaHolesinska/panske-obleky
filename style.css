@@ -60,6 +60,10 @@ h1.site-title span {
   stroke-width: 2;
 }
 
-.bile {
-  border-radius: 100%;
+.order {
+  border-radius: 10px;
+  background-color: #000;
+  border-color: white;
+  color: white;
+  padding: 5px 30px;
 }
