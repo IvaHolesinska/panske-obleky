@@ -59,3 +59,7 @@ h1.site-title span {
   stroke: #000;
   stroke-width: 2;
 }
+
+.bile {
+  border-radius: 100%;
+}
